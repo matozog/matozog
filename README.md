@@ -2,6 +2,10 @@
 
 ## Frontend Developer (React, TypeScript, Material UI)
 
+![React](https://example.com/react-logo.png)
+![TypeScript](https://example.com/typescript-logo.png)
+![Material UI](https://example.com/material-ui-logo.png)
+
 🚀 Transforming ideas into elegant web experiences.
 
 I specialize in crafting pixel-perfect and responsive user interfaces using React, TypeScript, and Material UI. With a deep understanding of Redux and the Context API, I build scalable and maintainable frontend solutions.
