@@ -2,12 +2,6 @@
 
 ## Frontend Developer (React, TypeScript, Material UI)
 
-🚀 Transforming ideas into elegant web experiences.
-
-I specialize in crafting pixel-perfect and responsive user interfaces using React, TypeScript, and Material UI. With a deep understanding of Redux and the Context API, I build scalable and maintainable frontend solutions.
-
-On the backend, I have experience with Java and Spring Boot, enabling seamless communication between frontend and backend systems. Let's collaborate to create exceptional web applications that shine both in the frontend and backend domains!
-
 <!--
 **matozog/matozog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
