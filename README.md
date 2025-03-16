@@ -21,3 +21,8 @@ I believe in the importance of staying updated with the latest industry trends. 
 ## 🚀 Let's Collaborate
 
 I'm always open to collaborating on innovative projects. Feel free to reach out if you're interested in working together or discussing the latest in frontend development.
+
+## 📫 Contact Information
+
+- **LinkedIn:** [Mateusz Ozóg](https://www.linkedin.com/in/mateusz-ozog-dev/)  
+- **Website:** [mateusz-ozog.github.io](https://matozog.github.io/mateusz-ozog/)  
