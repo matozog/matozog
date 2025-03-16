@@ -6,8 +6,8 @@ I'm a Frontend Developer with a strong foundation in creating intuitive and dyna
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, Java
-- **Frameworks & Libraries:** React
-- **Tools:** Git, Webpack, Jenkins  
+- **Frameworks & Libraries:** React, MUI, Bootstrap, Tailwind, SASS, CSS
+- **Tools:** Git, Webpack, Jenkins, Jira, Vite
 
 ## 📈 Professional Journey
 
