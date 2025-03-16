@@ -1,7 +1,7 @@
 # 💻 Frontend Developer | Passionate about Crafting Engaging User Experiences
 
 ### Hi there 👋
-I'm a Frontend Developer with a strong foundation in creating intuitive and dynamic web applications. With a background in software programming at PIT-RADWAR S.A., I've honed my skills in translating complex requirements into seamless user interfaces.
+My name is Mateusz and I'm a Frontend Developer with a strong foundation in creating intuitive and dynamic web applications. I have above 5 years experience in working as a Software Engineer and Frontend developer. I've honed my skills in translating complex requirements into seamless user interfaces.
 
 ## 🔧 Technologies & Tools
 
