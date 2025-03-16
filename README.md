@@ -6,7 +6,7 @@ My name is Mateusz and I'm a Frontend Developer with a strong foundation in crea
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, Java
-- **Frameworks & Libraries:** React, MUI, Bootstrap, Tailwind, SASS, CSS
+- **Frameworks & Libraries:** React, MUI, Bootstrap, Tailwind, SASS, CSS, Spring boot, Hibernate, MySQL
 - **Tools:** Git, Webpack, Jenkins, Jira, Vite
 
 ## 📈 Professional Journey
