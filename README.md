@@ -1,14 +1,13 @@
-### Hi there 👋
-
 # 💻 Frontend Developer | Passionate about Crafting Engaging User Experiences
 
+### Hi there 👋
 I'm a Frontend Developer with a strong foundation in creating intuitive and dynamic web applications. With a background in software programming at PIT-RADWAR S.A., I've honed my skills in translating complex requirements into seamless user interfaces.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React, Angular, Vue.js  
-- **Tools:** Git, Webpack, Docker  
+- **Languages:** JavaScript, TypeScript, Java
+- **Frameworks & Libraries:** React
+- **Tools:** Git, Webpack, Jenkins  
 
 ## 📈 Professional Journey
 
